@@ -1,8 +1,15 @@
+Copyright (C) 2009 Florent Gallaire <fgallaire@gmail.com>  
+License GNU GPLv3 or any later version.
+
+Copyright (C) 2008 Jay Salvat
+MarkItUp!
+http://markitup.jaysalvat.com/
+
+Silk icons by Mark James under license Creative Commons BY
+http://www.famfamfam.com/lab/icons/silk/
+
 Markup language : 
 ReStructuredText http://docutils.sourceforge.net/rst.html
-
-License :
-GNU GPLv3 or any later version.
 
 Code repository :
 https://bitbucket.org/fgallaire/rest-markitup
