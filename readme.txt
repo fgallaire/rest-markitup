@@ -9,7 +9,10 @@ Silk icons by Mark James under license Creative Commons BY
 http://www.famfamfam.com/lab/icons/silk/
 
 Markup language : 
-ReStructuredText http://docutils.sourceforge.net/rst.html
+ReStructuredText
+
+Web site :
+http://docutils.sourceforge.net/rst.html
 
 Code repository :
 https://bitbucket.org/fgallaire/rest-markitup
